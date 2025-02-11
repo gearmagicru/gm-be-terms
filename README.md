@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-terms/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Модуль панели управления "Роли и права доступа пользователей"
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-terms/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Модуль панели управления "Термины"
 
 Модуль терминов компонентов (модули, расширения модулей) веб-приложения.
 
