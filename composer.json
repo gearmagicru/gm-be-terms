@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-be-terms",
-    "description": "Control panel module \"Terms\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "module",
-        "terms"
-    ],
+    "description": "Control Panel module \"Terms\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "terms"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-terms",
     "type": "component",
     "license": "MIT",
